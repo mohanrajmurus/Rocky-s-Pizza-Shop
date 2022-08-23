@@ -1,0 +1,18 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    z-index: -1;
+    scroll-behavior: smooth;
+  }
+  .home-page{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .home-page h4{
+    font-size: 3rem;
+    font-weight: 900;
+    font-style: italic;
+  }
