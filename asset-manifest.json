@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rocky-s-Pizza-Shop/static/css/main.f06a2271.css",
+    "main.js": "/Rocky-s-Pizza-Shop/static/js/main.a4ece388.js",
+    "index.html": "/Rocky-s-Pizza-Shop/index.html",
+    "main.f06a2271.css.map": "/Rocky-s-Pizza-Shop/static/css/main.f06a2271.css.map",
+    "main.a4ece388.js.map": "/Rocky-s-Pizza-Shop/static/js/main.a4ece388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06a2271.css",
+    "static/js/main.a4ece388.js"
+  ]
+}
